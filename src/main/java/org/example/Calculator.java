@@ -25,6 +25,5 @@ public class Calculator {
         };
 
         System.out.println(a + " " + operator + " " + b + " = " + result) ;
-        System.out.println("Type Q to quit or any key to continue: ");
     }
 }
